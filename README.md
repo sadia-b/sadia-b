@@ -17,6 +17,8 @@ I am a junior software engineer with a passion for problem solving and developin
 ## Languages & Tools
 <a href="http://twitter.com/MishManners" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/twitter%20(2).png" title = "Twitter" alt="" height="30" /></a>
 [![Bash](https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg)](https://www.gnu.org/software/bash/)
+![Bash](https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg | width=40)
+
 <p align="left">
 
 
