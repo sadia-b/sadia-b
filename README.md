@@ -17,18 +17,8 @@ I am a junior software engineer with a passion for problem solving and developin
 ## Languages & Tools
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
 
-<div align="auto">
-  <span>
-  <a href="https://www.gnu.org/software/bash/" target="blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
-  </a>
-</span>
-
-<span>
-  <a href="https://www.cprogramming.com/" target="blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-</span>
+<p align="left">
+<a href="https://www.gnu.org/software/bash/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="" height="40" width="40" /></a>
 <a href="https://www.gnu.org/software/bash/" target="blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40" style="display: inline-block;"/>
 </a>
