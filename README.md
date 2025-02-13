@@ -15,7 +15,7 @@ I am a junior software engineer with a passion for problem solving and developin
 - 🎯 Interested in **frontend or-full stack** opportunities
 
 ## Languages & Tools
-
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
 
 <p align="auto">
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> &nbsp;&nbsp;&nbsp;
